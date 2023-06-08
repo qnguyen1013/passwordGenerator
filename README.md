@@ -3,7 +3,7 @@
 This is a simple password generator project
 
 inputs:
-minimum_length (integer)= how big does the pass need to be
+minimum_length (integer)= how big does the password need to be
 numbers (bool) = should it contain numbers
 special_characters = should it contain special characters
 
